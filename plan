@@ -29,3 +29,9 @@
 - Domain definition
 - Domain query functions
 - Future : Spatial partitioning optimizations
+
+
+# Tasks
+- Setup build system
+- Setup display library
+
