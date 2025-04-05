@@ -1,0 +1,31 @@
+# Files
+- main.c
+- integrator.c
+- collision.c
+- visual.c
+- particle.c
+- domain.c
+
+## Main
+- Initialization
+- Main loop
+- Cleanup
+
+## Integrator
+- Calculate position
+
+## Collision
+- Check collision
+- Update velocity
+- Update position
+
+## Visual
+- Draw elements
+
+## Particle
+- Particle structure definition
+
+## Domain
+- Domain definition
+- Domain query functions
+- Future : Spatial partitioning optimizations
